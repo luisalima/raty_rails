@@ -1,0 +1,2 @@
+module RatyRails
+end
