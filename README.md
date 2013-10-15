@@ -1,5 +1,6 @@
 # jQuery Raty for the asset pipeline
 
+**Version provided: 2.5.2**
 
 This gem provides jQuery Raty for the Ruby on Rails asset pipeline from v3.1+ onwards.
 
