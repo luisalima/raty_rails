@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     raty_rails (0.0.1)
-      rails (~> 4.0.0)
+      rails (>= 3.2.12)
 
 GEM
   remote: https://rubygems.org/
