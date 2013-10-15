@@ -28,4 +28,6 @@ You can now use it as explained in the jQuery Raty documentation.
 
 ## Feedback and contributing
 
+If at any time you notice that jQuery Raty version is not the latest available from the official website, an issue and/or a pull request is most welcome.  
+
 To contribute, please make sure all tests are passing before submitting a new pull request.
